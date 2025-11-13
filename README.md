@@ -34,98 +34,79 @@
   </ul>
 </div>
 
-<!-- ⚙️ TECH STACK - SPECIAL UI EDITION -->
-<h2 align="center" style="color:#ffb86c; margin-top:50px;">⚙️ Tech Stack</h2>
+<!-- 🌟 Futuristic AI Engineer GitHub Profile README 🌟 -->
+<div align="center">
 
-<div align="center" style="
-  display:flex;
-  flex-wrap:wrap;
-  justify-content:center;
-  align-items:stretch;
-  gap:25px;
-  margin-top:25px;
-  max-width:1000px;
-  margin:auto;
-">
+  <!-- Header Banner -->
+  <img src="https://raw.githubusercontent.com/satomune/banner/main/header_ai_fusion.gif" alt="AI Fusion Banner" width="100%" style="border-radius:16px;"/>
 
-  <!-- CARD: AI / ML -->
-  <div style="
-    background:linear-gradient(135deg, #7b2ff7, #f107a3);
-    border-radius:20px;
-    width:230px;
-    padding:20px 15px;
-    box-shadow:0 8px 24px rgba(0,0,0,0.3);
-    text-align:center;
-    transition:all 0.3s ease;
-  ">
-    <h3 style="color:white; margin-bottom:10px;">🧠 AI / ML</h3>
-    <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:12px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" height="48" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" width="48" height="48" />
-    </div>
-    <p style="color:white; font-size:0.85em; margin-top:10px;">LangChain · PyTorch · TensorFlow · OpenAI API</p>
-  </div>
+  <!-- Animated Intro -->
+  <h1 style="font-size:40px; font-weight:800; color:#00f6ff; margin-top:20px;">
+    👋 Hey, I'm <span style="color:#8b5cf6;">Satomune</span>
+  </h1>
+  <p style="font-size:18px; color:#c9d1d9; max-width:700px; margin:auto;">
+    Full-Stack, Mobile & AI Developer who loves creating intelligent systems that shape the future.<br/>
+    Always building the bridge between <strong>creativity</strong> and <strong>technology</strong>.
+  </p>
 
-  <!-- CARD: Web -->
-  <div style="
-    background:linear-gradient(135deg, #00c6ff, #0072ff);
-    border-radius:20px;
-    width:230px;
-    padding:20px 15px;
-    box-shadow:0 8px 24px rgba(0,0,0,0.3);
-    text-align:center;
-  ">
-    <h3 style="color:white; margin-bottom:10px;">💻 Web</h3>
-    <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:12px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="48" height="48" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" />
-    </div>
-    <p style="color:white; font-size:0.85em; margin-top:10px;">React · Next.js · Node.js · TypeScript</p>
-  </div>
+  <br/>
 
-  <!-- CARD: Mobile -->
-  <div style="
-    background:linear-gradient(135deg, #ff512f, #dd2476);
-    border-radius:20px;
-    width:230px;
-    padding:20px 15px;
-    box-shadow:0 8px 24px rgba(0,0,0,0.3);
-    text-align:center;
-  ">
-    <h3 style="color:white; margin-bottom:10px;">📱 Mobile</h3>
-    <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:12px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="48" height="48" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="48" height="48" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="48" height="48" />
-    </div>
-    <p style="color:white; font-size:0.85em; margin-top:10px;">React Native · Kotlin · Swift</p>
-  </div>
-
-  <!-- CARD: Cloud / DevOps -->
-  <div style="
-    background:linear-gradient(135deg, #43cea2, #185a9d);
-    border-radius:20px;
-    width:230px;
-    padding:20px 15px;
-    box-shadow:0 8px 24px rgba(0,0,0,0.3);
-    text-align:center;
-  ">
-    <h3 style="color:white; margin-bottom:10px;">☁️ Cloud / DevOps</h3>
-    <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:12px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="48" height="48" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcp/gcp-original.svg" width="48" height="48" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" />
-    </div>
-    <p style="color:white; font-size:0.85em; margin-top:10px;">AWS · GCP · Docker · Kubernetes</p>
-  </div>
+  <!-- Animated Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f6ff,100:8b5cf6&height=100&section=header&reversal=true"/>
 
 </div>
+
+---
+
+<!-- 🧠 Tech Stack -->
+<h2 align="center">⚙️ My Tech Arsenal</h2>
+
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
+
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,androidstudio,typescript,javascript,python,pytorch,tensorflow,fastapi,nodejs,express,mongodb,postgresql,aws,vercel,firebase,github,figma,docker&theme=dark" height="60"/>
+
+</div>
+
+---
+
+<!-- 🛠️ Projects Showcase -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:25px;">
+
+  <a href="https://github.com/satomune/ai-vision" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satomune&repo=ai-vision&theme=tokyonight&border_color=8b5cf6&show_icons=true" />
+  </a>
+
+  <a href="https://github.com/satomune/fullstack-hub" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satomune&repo=fullstack-hub&theme=tokyonight&border_color=00f6ff&show_icons=true" />
+  </a>
+
+</div>
+
+---
+
+<!-- 🌐 AI Universe Section -->
+<h2 align="center">🤖 Exploring the AI Universe</h2>
+<p align="center" style="color:#c9d1d9; font-size:16px;">
+  Merging deep learning and cross-platform apps to design smarter user experiences.<br/>
+  Specialized in multimodal AI, full-stack integration, and autonomous mobile systems.
+</p>
+
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-top:20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satomune&layout=compact&theme=tokyonight&langs_count=8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satomune&theme=tokyonight&border=00f6ff" />
+</div>
+
+---
+
+<!-- 🌈 Animated Footer -->
+<div align="center">
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:00f6ff&height=100&section=footer&reversal=true"/>
+  <p style="color:#8b5cf6; font-size:14px;">✨ Powered by curiosity, caffeine, and AI ✨</p>
+</div>
+
 
 
 
