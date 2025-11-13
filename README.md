@@ -16,7 +16,7 @@
 
 <!-- GITHUB TROPHY -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satomune-dev&theme=dracula&row=1&margin-w=10&margin-h=10" alt="GitHub Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=satomune-dev&theme=onedark&row=1&margin-w=8&margin-h=8" alt="GitHub Trophy" />
 </p>
 
 <!-- ABOUT ME -->
