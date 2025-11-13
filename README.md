@@ -78,13 +78,6 @@
   </tr>
 </table>
 
-<!-- GITHUB STATS -->
-<h2 align="center" style="margin-top:40px; color:#ff79c6;">📊 GitHub Analytics</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satomune-dev&show_icons=true&theme=dracula&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satomune-dev&theme=dracula&hide_border=true" height="160"/>
-</p>
-
 <!-- FOOTER QUOTE -->
 <p align="center" style="color:#6272a4; margin-top:40px; font-style:italic; font-size:1.1em;">
   “Innovation thrives where AI meets intuition.”  
